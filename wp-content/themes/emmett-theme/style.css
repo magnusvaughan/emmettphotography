@@ -1,0 +1,21 @@
+/*
+Theme Name: Emmett
+Theme URI: www.emmettmcsheffrey.com
+Description: The CSS file for Emmett Mcsheffrey Photography
+Author: Magnus Vaughan
+Author URI: http://www.magnusvaughan.com
+Version: 1.0
+Tags: responsive, bootstrap, photography
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+*/
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono|Comfortaa);
+@import url('bootstrap/css/bootstrap.css'); 
+@import url('bootstrap/css/bootstrap.min.css'); 
+@import url('bootstrap/css/bootstrap-theme.css');
+@import url('bootstrap/css/bootstrap-theme.min.css');
+@import url('bootstrap/css/simple-sidebar.css');
+@import url('bootstrap/css/mag.css');  
+@import url('bootstrap/scss/styling.scss'); 

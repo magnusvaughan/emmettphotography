@@ -1,0 +1,30 @@
+#galleria{width: 100%; min-height: 100% ; background: #EFEFEF}  
+#gallery {min-height: 520px;}
+.galleria {background-color:#EFEFEF; border-radius:10px;}
+body .galleria-container{ background:#EFEFEF; }
+body .galleria-image-nav-right {color: #000000;}
+.galleria-thumbnails { margin: 0 auto; }
+.galleria-layer {height: 100%; width: 100%;}
+body {font-family: "futura-pt"; font-size: 15px;}
+h1 {font-family: "futura-pt";}
+h2, h3, h4, h5, h6 {font-family: "futura-pt";}
+#center {text-align: center;}
+
+
+h2 {margin-top: 0px;
+	margin-bottom: 0px;
+	}
+
+.page-header {
+padding-bottom: 9px;
+margin: 0px 0 0px;
+border-bottom: 1px solid #eee;
+}
+
+.captions.span12{
+	margin-left: 0px;
+}
+
+.navbar.span12{
+	margin-left: 0px;
+}
